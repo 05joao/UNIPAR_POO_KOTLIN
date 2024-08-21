@@ -2,14 +2,14 @@ package Main
 fun main() {
 
     // Criação e atribuição de variáveis
-    val idade1: Int = 18
-    val altura1: Double = 1.65
-    val nome1: String = "Leo"
+    val idade1: Int = 19
+    val altura1: Double = 1.85
+    val nome1: String = "João"
     val estudante1: Boolean = true
 
     val idade2: Int = 20
     val altura2: Double = 1.85
-    val nome2: String = "Fassini"
+    val nome2: String = "Jão2"
     val estudante2: Boolean = false
 
     // Operações
